@@ -3,7 +3,13 @@
  */
 package hello.java.lib;
 
+
+/** A class that has methods for some very useful functionalities */
 public class Library {
+    /**
+     * Some interesting library method
+     * @return a boolean which is always true
+     */
     public boolean someLibraryMethod() {
         return true;
     }
